@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Database
+database.sqlite
+database - Copy.sqlite
+database.sqlite-journal
+*.sqlite
+
+# Binary data
+binaryData/
+
+# Logs
+*.log
+crash.journal
+
+# n8n cache
+.cache/
+
+# Windows files
+Thumbs.db
+desktop.ini
